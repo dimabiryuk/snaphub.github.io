@@ -3,12 +3,6 @@ layout: page
 title: Privacy Policy
 permalink: /privacy/
 ---
----
-layout: page
-title: Privacy Policy
-permalink: /privacy/
----
-
 # Privacy Policy
 
 This document, referred to as the **Privacy Policy** (hereinafter the **“Policy”**), governs the collection, use, and processing of Personal Information from users (hereinafter **“You”** or **“User”**) by **BirApps Studio** (hereinafter **“BirApps Studio”**) in connection with the download, installation, and use of the mobile application (hereinafter the **“Mobile Application”**).
