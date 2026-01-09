@@ -68,7 +68,7 @@ Personal Information may be transferred to third parties in the following cases:
 
 ## Contact and Requests
 For any questions, requests to amend, or requests to delete Personal Information, please contact:  
-**Email:** crowdmindapp@gmail.com
+**Email:** help.birapps@gmail.com
 
 ## Amendments to This Policy
 BirApps Studio reserves the right to amend or update this Policy at any time without prior notice. Users are encouraged to review this Policy periodically for any changes.
